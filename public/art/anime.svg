@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>anime</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M50 40 L190 40 C195.523 40 200 44.477 200 50 L200 150 C200 155.523 195.523 160 190 160 L50 160 C44.477 160 40 155.523 40 150 L40 50 C40 44.477 44.477 40 50 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M90 92 C90 85.373 95.373 80 102 80 C108.627 80 114 85.373 114 92 C114 98.627 108.627 104 102 104 C95.373 104 90 98.627 90 92 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M126 92 C126 85.373 131.373 80 138 80 C144.627 80 150 85.373 150 92 C150 98.627 144.627 104 138 104 C131.373 104 126 98.627 126 92 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

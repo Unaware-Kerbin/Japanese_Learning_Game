@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>manga</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M56 30 L184 30 C187.314 30 190 32.686 190 36 L190 204 C190 207.314 187.314 210 184 210 L56 210 C52.686 210 50 207.314 50 204 L50 36 C50 32.686 52.686 30 56 30 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M72 60 L168 60 C169.105 60 170 60.895 170 62 L170 66 C170 67.105 169.105 68 168 68 L72 68 C70.895 68 70 67.105 70 66 L70 62 C70 60.895 70.895 60 72 60 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M72 84 L148 84 C149.105 84 150 84.895 150 86 L150 90 C150 91.105 149.105 92 148 92 L72 92 C70.895 92 70 91.105 70 90 L70 86 C70 84.895 70.895 84 72 84 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

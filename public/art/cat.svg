@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>cat</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M70 115 C70 90.147 92.386 70 120 70 C147.614 70 170 90.147 170 115 C170 139.853 147.614 160 120 160 C92.386 160 70 139.853 70 115 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M55 54 C55 40.745 63.059 30 73 30 C82.941 30 91 40.745 91 54 C91 67.255 82.941 78 73 78 C63.059 78 55 67.255 55 54 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M149 54 C149 40.745 157.059 30 167 30 C176.941 30 185 40.745 185 54 C185 67.255 176.941 78 167 78 C157.059 78 149 67.255 149 54 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M100 106 C100 102.686 102.686 100 106 100 C109.314 100 112 102.686 112 106 C112 109.314 109.314 112 106 112 C102.686 112 100 109.314 100 106 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M130 106 C130 102.686 132.686 100 136 100 C139.314 100 142 102.686 142 106 C142 109.314 139.314 112 136 112 C132.686 112 130 109.314 130 106 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>school</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M54 90 L186 90 C188.209 90 190 91.791 190 94 L190 186 C190 188.209 188.209 190 186 190 L54 190 C51.791 190 50 188.209 50 186 L50 94 C50 91.791 51.791 90 54 90 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M102 40 L138 40 C139.105 40 140 40.895 140 42 L140 88 C140 89.105 139.105 90 138 90 L102 90 C100.895 90 100 89.105 100 88 L100 42 C100 40.895 100.895 40 102 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

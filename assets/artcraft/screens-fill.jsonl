@@ -1,0 +1,9 @@
+{"command":"fill.set","params":{"ids":[2,3,4],"color":"#f3ead7"}}
+{"command":"shape.rectangle","params":{"parent":2,"x":32,"y":220,"width":326,"height":64,"name":"new","props":{"cornerRadius":12}}}
+{"command":"fill.set","params":{"ids":[9],"color":"#c23b22"}}
+{"command":"text.create","params":{"parent":2,"text":"Michi Dojo","x":32,"y":64,"width":320,"props":{"fontSize":40,"fill":"#1c1915"}}}
+{"command":"text.create","params":{"parent":2,"text":"New to Japanese","x":48,"y":236,"width":280,"props":{"fontSize":22}}}
+{"command":"text.create","params":{"parent":3,"text":"あ","x":40,"y":180,"width":300,"props":{"fontSize":96}}}
+{"command":"text.create","params":{"parent":3,"text":"ah","x":40,"y":320,"width":300,"props":{"fontSize":28}}}
+{"command":"text.create","params":{"parent":4,"text":"N5 pack 1 of 9","x":32,"y":80,"width":320,"props":{"fontSize":28}}}
+{"command":"text.create","params":{"parent":4,"text":"about 2 days left","x":32,"y":140,"width":320,"props":{"fontSize":18}}}

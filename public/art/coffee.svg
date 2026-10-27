@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <title>coffee</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M52 40 L108 40 C114.627 40 120 45.373 120 52 L120 98 C120 104.627 114.627 110 108 110 L52 110 C45.373 110 40 104.627 40 98 L40 52 C40 45.373 45.373 40 52 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M108 73 C108 63.059 114.268 55 122 55 C129.732 55 136 63.059 136 73 C136 82.941 129.732 91 122 91 C114.268 91 108 82.941 108 73 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

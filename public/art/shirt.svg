@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>shirt</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M88 70 L152 70 C156.418 70 160 73.582 160 78 L160 172 C160 176.418 156.418 180 152 180 L88 180 C83.582 180 80 176.418 80 172 L80 78 C80 73.582 83.582 70 88 70 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M46 80 L74 80 C77.314 80 80 82.686 80 86 L80 102 C80 105.314 77.314 108 74 108 L46 108 C42.686 108 40 105.314 40 102 L40 86 C40 82.686 42.686 80 46 80 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M166 80 L194 80 C197.314 80 200 82.686 200 86 L200 102 C200 105.314 197.314 108 194 108 L166 108 C162.686 108 160 105.314 160 102 L160 86 C160 82.686 162.686 80 166 80 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>

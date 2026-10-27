@@ -1,0 +1,9 @@
+{"command":"page.rename","params":{"name":"Michi"}}
+{"command":"page.setBackground","params":{"color":"#f3ead7"}}
+{"command":"frame.create","params":{"name":"Door","x":0,"y":0,"width":390,"height":844}}
+{"command":"frame.create","params":{"name":"Lesson","x":430,"y":0,"width":390,"height":844}}
+{"command":"frame.create","params":{"name":"Map","x":860,"y":0,"width":390,"height":844}}
+{"command":"text.create","params":{"text":"Michi Dojo","x":36,"y":72,"width":300,"props":{"fontSize":36}}}
+{"command":"text.create","params":{"text":"Pick the door that matches you.","x":36,"y":130,"width":300,"props":{"fontSize":18}}}
+{"command":"text.create","params":{"text":"あ  ah","x":480,"y":200,"width":280,"props":{"fontSize":48}}}
+{"command":"text.create","params":{"text":"N5 pack 1","x":900,"y":160,"width":280,"props":{"fontSize":28}}}

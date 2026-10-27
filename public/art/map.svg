@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="280" viewBox="0 0 640 280">
+  <title>map</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M40 40 L148 40 C156.837 40 164 47.163 164 56 L164 204 C164 212.837 156.837 220 148 220 L40 220 C31.163 220 24 212.837 24 204 L24 56 C24 47.163 31.163 40 40 40 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M196 70 L304 70 C312.837 70 320 77.163 320 86 L320 204 C320 212.837 312.837 220 304 220 L196 220 C187.163 220 180 212.837 180 204 L180 86 C180 77.163 187.163 70 196 70 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M356 50 L464 50 C472.837 50 480 57.163 480 66 L480 204 C480 212.837 472.837 220 464 220 L356 220 C347.163 220 340 212.837 340 204 L340 66 C340 57.163 347.163 50 356 50 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M506 90 L594 90 C602.837 90 610 97.163 610 106 L610 204 C610 212.837 602.837 220 594 220 L506 220 C497.163 220 490 212.837 490 204 L490 106 C490 97.163 497.163 90 506 90 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>
